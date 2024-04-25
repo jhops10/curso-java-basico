@@ -18,6 +18,8 @@ public class Exercicio01 {
 		} else {
 			System.out.println("POSITIVO!");
 		}
+		
+		entrada.close();
 	}
 
 }
