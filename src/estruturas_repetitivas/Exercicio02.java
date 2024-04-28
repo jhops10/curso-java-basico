@@ -21,6 +21,8 @@ public class Exercicio02 {
 		}
 		
 		System.out.println("Acesso Permitido");
+		
+		sc.close();
 
 	}
 
