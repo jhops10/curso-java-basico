@@ -1,4 +1,4 @@
-package entities;
+package exemplos_poo.introducao_poo.exemplo01.entities;
 
 public class Triangle {
 	public double a;

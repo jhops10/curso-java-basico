@@ -1,8 +1,8 @@
-package application;
+package exemplos_poo.introducao_poo.exemplo01.application;
 
 import java.util.Scanner;
 
-import entities.Triangle;
+import exemplos_poo.introducao_poo.exemplo01.entities.Triangle;
 
 public class Program {
 
