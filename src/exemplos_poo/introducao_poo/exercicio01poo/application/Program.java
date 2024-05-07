@@ -16,7 +16,7 @@ public class Program {
 		int number = sc.nextInt();
 		
 		System.out.print("Enter account holder name: ");
-		sc.nextLine();
+		sc.nextLine(); //Quebra de linha após ter usado o nextInt();
 		String holder = sc.nextLine();
 		
 		System.out.print("Is there an initial deposit? (y/n) ");
