@@ -9,7 +9,6 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		int aprovedIndex;
 		
 		System.out.print("Quantos alunos serao digitados? ");
 		int n = sc.nextInt();
